@@ -1,0 +1,5 @@
+If you backup a directory and one of its children, it will backup the child twice.
+
+Use -T - to read files to backup from stdin -- should use this 
+
+Excluding a directory means you can NEVER backup any of its children even if explicatly listed
